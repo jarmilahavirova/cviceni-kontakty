@@ -61,7 +61,7 @@ h2 {
     column-gap: 20px;
   }
   .kontakt {
-    flex-basis: 50%;
+    flex-basis: 48%;
     max-width: none;
     height: 150px;
     flex-direction: row;
